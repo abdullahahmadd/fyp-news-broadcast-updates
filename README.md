@@ -5,6 +5,22 @@ COMSATS University Islamabad, Abbottabad Campus
 
 ---
 
+## 📑 Table of Contents
+
+1. [Overview](#-overview)
+2. [Problem Statement](#-problem-statement)
+3. [Key Features](#-key-features)
+4. [System Architecture](#-system-architecture)
+5. [Technologies Used](#-technologies-used)
+6. [Core Functionalities](#-core-functionalities)
+7. [User Interface (UI)](#-user-interface-ui)
+8. [Testing & Quality Assurance](#-testing--quality-assurance)
+9. [Project Outcome](#-project-outcome)
+10. [Future Enhancements](#-future-enhancements)
+11. [Project Team](#-project-team)
+
+---
+
 ## 📌 Overview
 
 **News Broadcast Updates (NBU)** is a mobile-based application designed to deliver **hyper-local news updates** through a community-driven platform. The system allows users to browse, submit, and engage with news content relevant to their location, while administrators ensure credibility through a structured moderation process.
@@ -120,33 +136,3 @@ All application user interfaces are organized under the `UI/` directory for docu
 ## 🧪 Testing & Quality Assurance
 
 The system was validated using:
-- Unit Testing  
-- Functional Testing  
-- Integration Testing  
-
-All critical modules such as authentication, news submission, moderation, notifications, and profile management were tested to ensure system reliability and correctness.
-
----
-
-## 🚀 Project Outcome
-
-The NBU system successfully delivers a **scalable and reliable local news platform** that balances open participation with controlled moderation. The integration of AI-assisted video summarization enhances administrative efficiency, while Firebase ensures real-time performance and secure data handling.
-
----
-
-## 🔮 Future Enhancements
-- Advanced AI-based misinformation detection  
-- Multilingual news support  
-- Analytics dashboard for admins  
-- Push notification personalization  
-- Deployment on Play Store / App Store  
-
----
-
-## 👨‍💻 Project Team
-- Abdullah Ahmad  
-- Mugheer Islam Khatak  
-- Faisal Hasan Zada  
-
-**Supervisor:** Muhammad Tariq  
-**Degree:** BS Software Engineering (2021–2025)
