@@ -209,3 +209,33 @@ All application user interfaces are organized under the `UI/` directory for docu
 ## 🧪 Testing & Quality Assurance
 
 The system was validated using:
+- Unit Testing  
+- Functional Testing  
+- Integration Testing  
+
+All critical modules such as authentication, news submission, moderation, notifications, and profile management were tested to ensure system reliability and correctness.
+
+---
+
+## 🚀 Project Outcome
+
+The NBU system successfully delivers a **scalable and reliable local news platform** that balances open participation with controlled moderation. The integration of AI-assisted video summarization enhances administrative efficiency, while Firebase ensures real-time performance and secure data handling.
+
+---
+
+## 🔮 Future Enhancements
+- Advanced AI-based misinformation detection  
+- Multilingual news support  
+- Analytics dashboard for admins  
+- Push notification personalization  
+- Deployment on Play Store / App Store  
+
+---
+
+## 👨‍💻 Project Team
+- **Abdullah Ahmad**  
+- Mugheer Islam Khatak  
+- Faisal Hasan Zada  
+
+**Supervisor:** Muhammad Tariq  
+**Degree:** BS Software Engineering (2021–2025)
