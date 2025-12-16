@@ -1,42 +1,152 @@
-# Welcome to your Expo app 👋
+# 📰 News Broadcast Updates (NBU)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Final Year Project — BS Software Engineering**  
+COMSATS University Islamabad, Abbottabad Campus
 
-## Get started
+---
 
-1. Install dependencies
+## 📌 Overview
 
-   ```bash
-   npm install
-   ```
+**News Broadcast Updates (NBU)** is a mobile-based application designed to deliver **hyper-local news updates** through a community-driven platform. The system allows users to browse, submit, and engage with news content relevant to their location, while administrators ensure credibility through a structured moderation process.
 
-2. Start the app
+The application addresses challenges such as **misinformation**, **lack of local news coverage**, and **information overload** by combining user-generated content with administrative verification and real-time notifications.
 
-   ```bash
-    npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🎯 Problem Statement
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Traditional news platforms primarily focus on national or global news, often overlooking events that directly impact local communities. At the same time, the rise of user-generated content has increased the spread of misinformation.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+**NBU aims to:**
+- Provide reliable, location-based news  
+- Enable community participation  
+- Maintain content authenticity through admin moderation  
 
+---
 
+## ✨ Key Features
 
-## Learn more
+### 👤 User Features
+- User registration & secure authentication  
+- Browse news based on location and category  
+- Submit news with text, images, or videos  
+- Edit submissions while under review  
+- Receive real-time notifications  
+- Profile management & saved news  
 
-To learn more about developing your project with Expo, look at the following resources:
+### 🛠️ Admin Features
+- Review and moderate user-submitted news  
+- Approve or reject content with feedback  
+- Upload promotional news  
+- Manage users and restrict accounts  
+- Receive submission notifications  
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### 🤖 AI-Powered Feature
+- Automatic video summarization for faster content review  
+- Generates concise textual summaries from uploaded videos  
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## 🧱 System Architecture
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+The system follows the **MVVM (Model–View–ViewModel)** architectural pattern to ensure:
+- Clear separation of concerns  
+- Improved maintainability and scalability  
+- Easier testing and future enhancements  
+
+---
+
+## 🧰 Technologies Used
+
+### Frontend
+- Expo  
+- React Native  
+- JavaScript  
+
+### Backend & Database
+- Firebase Authentication  
+- Firebase Firestore  
+- Firebase Storage  
+
+### AI & Processing
+- Python  
+- Flask  
+- Google Colab (video summarization model)  
+
+---
+
+## 🔄 Core Functionalities
+- Location-based news filtering  
+- Real-time updates and notifications  
+- Secure media storage and retrieval  
+- Admin-controlled content verification  
+- AI-assisted moderation workflow  
+
+---
+
+## 📱 User Interface (UI)
+
+All application user interfaces are organized under the `UI/` directory for documentation and presentation.
+
+---
+
+### 👤 Frontend — User Screens
+
+| Screen | Preview | Description |
+|------|--------|-------------|
+| Home Page | ![](UI/Front%20End/home_page.jpg) | Main landing page displaying latest local news |
+| Crime Section | ![](UI/Front%20End/crime_section_page.jpg) | Crime-related news feed |
+| Technology Section | ![](UI/Front%20End/tech_section_page.jpg) | Technology news feed |
+| My News | ![](UI/Front%20End/user_mynews_page.jpg) | User-submitted news articles |
+| News Description | ![](UI/Front%20End/news_description_page.jpg) | Detailed view of a news article |
+| Favourite News | ![](UI/Front%20End/favourite_news_page.jpg) | Saved and favorited news |
+| Settings | ![](UI/Front%20End/settings_page.jpg) | User settings and preferences |
+| Edit Profile | ![](UI/Front%20End/profile_edit_page.jpg) | Profile update interface |
+| Change Location | ![](UI/Front%20End/location_edit_page.jpg) | Update user location |
+| Reset Password | ![](UI/Front%20End/password_reset_page.jpg) | Password reset interface |
+
+---
+
+### 🛠️ Backend — Admin Screens
+
+| Screen | Preview | Description |
+|------|--------|-------------|
+| Promotional News Upload | ![](UI/Back%20End/promotional_news_upload_page.jpg) | Upload promotional news |
+| News Moderation | ![](UI/Back%20End/admin_moderation_page.jpg) | Review and approve/reject user submissions |
+| Admin Settings | ![](UI/Back%20End/admin_setting_page.jpg) | Admin configuration and controls |
+
+---
+
+## 🧪 Testing & Quality Assurance
+
+The system was validated using:
+- Unit Testing  
+- Functional Testing  
+- Integration Testing  
+
+All critical modules such as authentication, news submission, moderation, notifications, and profile management were tested to ensure system reliability and correctness.
+
+---
+
+## 🚀 Project Outcome
+
+The NBU system successfully delivers a **scalable and reliable local news platform** that balances open participation with controlled moderation. The integration of AI-assisted video summarization enhances administrative efficiency, while Firebase ensures real-time performance and secure data handling.
+
+---
+
+## 🔮 Future Enhancements
+- Advanced AI-based misinformation detection  
+- Multilingual news support  
+- Analytics dashboard for admins  
+- Push notification personalization  
+- Deployment on Play Store / App Store  
+
+---
+
+## 👨‍💻 Project Team
+- Abdullah Ahmad  
+- Mugheer Islam Khatak  
+- Faisal Hasan Zada  
+
+**Supervisor:** Muhammad Tariq  
+**Degree:** BS Software Engineering (2021–2025)
