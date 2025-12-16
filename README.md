@@ -3,10 +3,10 @@
 **🎓 Final Year Project — BS Software Engineering**  
 COMSATS University Islamabad, Abbottabad Campus
 
-![Visitors](https://visitorbadge.io/api/visitors?path=abdullahahmadd%2Ffyp-news-broadcast-updates&label=Visitors&countColor=%23263759)
-![React Native](https://img.shields.io/badge/React%20Native-Mobile%20App-61DAFB?logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-AI%20Processing-F9AB00?logo=googlecolab)
+![Visitors](https://komarev.com/ghpvc/?username=abdullahahmadd&repo=fyp-news-broadcast-updates&label=Visitors&color=0e75b6&style=flat)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab)
 ![Final Year Project](https://img.shields.io/badge/Final%20Year%20Project-BS%20Software%20Engineering-blue?logo=graduation-cap)
 ---
 
