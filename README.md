@@ -1,6 +1,6 @@
 # 📰 News Broadcast Updates (NBU)
 
-**Final Year Project — BS Software Engineering**  
+**🎓 Final Year Project — BS Software Engineering**  
 COMSATS University Islamabad, Abbottabad Campus
 
 ---
@@ -108,28 +108,96 @@ All application user interfaces are organized under the `UI/` directory for docu
 
 ### 👤 Frontend — User Screens
 
-| Screen | Preview | Description |
-|------|--------|-------------|
-| Home Page | ![](UI/Front%20End/home_page.jpg) | Main landing page displaying latest local news |
-| Crime Section | ![](UI/Front%20End/crime_section_page.jpg) | Crime-related news feed |
-| Technology Section | ![](UI/Front%20End/tech_section_page.jpg) | Technology news feed |
-| My News | ![](UI/Front%20End/user_mynews_page.jpg) | User-submitted news articles |
-| News Description | ![](UI/Front%20End/news_description_page.jpg) | Detailed view of a news article |
-| Favourite News | ![](UI/Front%20End/favourite_news_page.jpg) | Saved and favorited news |
-| Settings | ![](UI/Front%20End/settings_page.jpg) | User settings and preferences |
-| Edit Profile | ![](UI/Front%20End/profile_edit_page.jpg) | Profile update interface |
-| Change Location | ![](UI/Front%20End/location_edit_page.jpg) | Update user location |
-| Reset Password | ![](UI/Front%20End/password_reset_page.jpg) | Password reset interface |
+| 1. Home Page |
+|-------------|
+| ![](UI/Front%20End/home_page.jpg) |
+| Main landing page displaying latest local news. |
+
+---
+
+| 2. Crime Section |
+|----------------|
+| ![](UI/Front%20End/crime_section_page.jpg) |
+| Crime-related news feed. |
+
+---
+
+| 3. Technology Section |
+|----------------------|
+| ![](UI/Front%20End/tech_section_page.jpg) |
+| Technology-focused news feed. |
+
+---
+
+| 4. My News |
+|-----------|
+| ![](UI/Front%20End/user_mynews_page.jpg) |
+| User-submitted news articles and status tracking. |
+
+---
+
+| 5. News Description |
+|--------------------|
+| ![](UI/Front%20End/news_description_page.jpg) |
+| Detailed view of a selected news article. |
+
+---
+
+| 6. Favourite News |
+|------------------|
+| ![](UI/Front%20End/favourite_news_page.jpg) |
+| Saved and favorited news articles. |
+
+---
+
+| 7. Settings |
+|------------|
+| ![](UI/Front%20End/settings_page.jpg) |
+| User settings and application preferences. |
+
+---
+
+| 8. Edit Profile |
+|----------------|
+| ![](UI/Front%20End/profile_edit_page.jpg) |
+| Interface for updating user profile details. |
+
+---
+
+| 9. Change Location |
+|-------------------|
+| ![](UI/Front%20End/location_edit_page.jpg) |
+| Update user location for localized news. |
+
+---
+
+| 10. Reset Password |
+|-------------------|
+| ![](UI/Front%20End/password_reset_page.jpg) |
+| Password recovery and reset interface. |
 
 ---
 
 ### 🛠️ Backend — Admin Screens
 
-| Screen | Preview | Description |
-|------|--------|-------------|
-| Promotional News Upload | ![](UI/Back%20End/promotional_news_upload_page.jpg) | Upload promotional news |
-| News Moderation | ![](UI/Back%20End/admin_moderation_page.jpg) | Review and approve/reject user submissions |
-| Admin Settings | ![](UI/Back%20End/admin_setting_page.jpg) | Admin configuration and controls |
+| 1. Promotional News Upload |
+|----------------------------|
+| ![](UI/Back%20End/promotional_news_upload_page.jpg) |
+| Upload promotional and featured news content. |
+
+---
+
+| 2. News Moderation |
+|--------------------|
+| ![](UI/Back%20End/admin_moderation_page.jpg) |
+| Review, approve, or reject user-submitted news. |
+
+---
+
+| 3. Admin Settings |
+|-------------------|
+| ![](UI/Back%20End/admin_setting_page.jpg) |
+| Administrative configuration and system controls. |
 
 ---
 
